@@ -31,8 +31,7 @@ npm install
 ### 3. Create Environment Variables
 Create a .env.local file in the root and add:
 
-NEXT_PUBLIC_OPENWEATHER_API_KEY=your_openweather_api_key
-NEXT_PUBLIC_GEODB_API_KEY=your_geodb_api_key
+NEXT_PUBLIC_WEATHER_API_KEY=e8280e42cf96ec99b7e51a6cb83ba9fe
 
 
 ### 4. Run the App Locally
